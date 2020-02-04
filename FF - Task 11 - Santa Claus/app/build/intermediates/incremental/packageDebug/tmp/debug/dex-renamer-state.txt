@@ -1,0 +1,4 @@
+#Sat Dec 21 10:44:15 AZT 2019
+base.0=C\:\\Users\\Mushvig Alizade.DESKTOP-351901V\\Desktop\\ff12\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

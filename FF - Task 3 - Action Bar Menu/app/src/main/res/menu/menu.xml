@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/m0"
+        android:icon="@drawable/beu"
+        android:title="BEU"
+        app:showAsAction="ifRoom|withText" />
+
+
+    <item android:id="@+id/m1"
+        android:icon="@drawable/fb"
+        android:title="Facebook"
+        app:showAsAction="ifRoom|withText"
+
+        />
+
+    <item android:id="@+id/m2"
+        android:icon="@drawable/tw"
+        android:title="Twitter"
+
+
+        />
+
+
+    <item android:id="@+id/m3"
+        android:icon="@drawable/yt"
+        android:title="Youtube"
+
+
+        />
+
+    <item android:id="@+id/m4"
+
+        android:title="Linkedin"
+
+
+        />
+</menu>
