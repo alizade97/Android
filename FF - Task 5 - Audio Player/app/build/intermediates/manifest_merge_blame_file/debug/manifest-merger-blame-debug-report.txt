@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ff_task6"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:5:5-25:19
+12        android:allowBackup="true"
+12-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] C:\Users\Mushvig Alizade.DESKTOP-351901V\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:12:9-97
+22            android:name="com.example.ff_task6.Main3Activity"
+22-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:12:19-48
+23            android:screenOrientation="portrait" />
+23-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:12:49-85
+24        <activity
+24-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:13:9-87
+25            android:name="com.example.ff_task6.Main2Activity"
+25-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:13:19-48
+26            android:screenOrientation="portrait" />
+26-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:13:49-85
+27        <activity
+27-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:15:9-21:20
+28            android:name="com.example.ff_task6.MainActivity"
+28-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:15:19-47
+29            android:screenOrientation="portrait" >
+29-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:15:48-84
+30            <intent-filter>
+30-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:16:13-20:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:17:17-69
+31-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:17:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:19:17-77
+33-->C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\fftask6\app\src\main\AndroidManifest.xml:19:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
